@@ -1,0 +1,27 @@
+.blue_box{
+	width: 35px;
+	height: 35px;
+	border: 1px solid black;
+	background-color: blue;
+}
+
+.salmon_box{
+	width: 35px;
+	height: 35px;
+	border: 1px solid black;
+	background-color: salmon;
+}
+
+.yellow_box{
+	width: 35px;
+	height: 35px;
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+.green_box{
+	width: 35px;
+	height: 35px;
+	border: 1px solid black;
+	background-color: green;
+}
