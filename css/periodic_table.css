@@ -1,8 +1,34 @@
+#my_table{
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+	#my_table td{
+		border-top: none;
+		text-align: center;
+		font-weight: bold;
+	}
+	#my_table th{
+		text-align: center;
+		border-bottom: none;
+	}
+
+td{
+	color: darkred;
+}
+
+th{
+	color:darkred;
+}
+#remove_margin_top {
+	padding-top: 0px;
+}
+
 .blue_box{
 	width: 35px;
 	height: 35px;
 	border: 1px solid black;
-	background-color: blue;
+	background-color: lightblue;
+	color: blue;
 }
 
 .salmon_box{
@@ -10,6 +36,7 @@
 	height: 35px;
 	border: 1px solid black;
 	background-color: salmon;
+	color: blue;
 }
 
 .yellow_box{
@@ -17,6 +44,7 @@
 	height: 35px;
 	border: 1px solid black;
 	background-color: yellow;
+	color: blue;
 }
 
 .green_box{
@@ -24,4 +52,5 @@
 	height: 35px;
 	border: 1px solid black;
 	background-color: green;
+	color: blue;
 }
